@@ -143,8 +143,7 @@ Includes a complete Gertrude Stein case study with:
 Integrates with context engineering skills: project-development, context-compression, multi-agent-patterns, evaluation.
 
 ## Star History
-
-<img width="3664" height="2648" alt="star-history-20251226" src="https://github.com/user-attachments/assets/b80849df-6b2d-4c2f-84a3-7c8f71d2002c" />
+<img width="1832" height="1324" alt="star-history-20251229" src="https://github.com/user-attachments/assets/153f691a-12db-4fb9-8960-53bc431b202a" />
 
 ## Structure
 
