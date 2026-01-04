@@ -50,7 +50,17 @@
       "skills": [
         "./skills/project-development"
       ]
+    },
+    {
+      "name": "cognitive-architecture",
+      "description": "BDI mental state modeling and cognitive architecture patterns for building rational agents with formal belief-desire-intention representations",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/bdi-mental-states"
+      ]
     }
   ]
 }
+
 

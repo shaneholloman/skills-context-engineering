@@ -46,7 +46,15 @@ These skills cover the meta-level practices for building LLM-powered projects.
 
 | Skill | Description |
 |-------|-------------|
-| [project-development](skills/project-development/) | **NEW** Design and build LLM projects from ideation through deployment, including task-model fit analysis, pipeline architecture, and structured output design |
+| [project-development](skills/project-development/) | Design and build LLM projects from ideation through deployment, including task-model fit analysis, pipeline architecture, and structured output design |
+
+### Cognitive Architecture Skills
+
+These skills cover formal cognitive modeling for rational agent systems.
+
+| Skill | Description |
+|-------|-------------|
+| [bdi-mental-states](skills/bdi-mental-states/) | **NEW** Transform external RDF context into agent mental states (beliefs, desires, intentions) using formal BDI ontology patterns for deliberative reasoning and explainability |
 
 ## Design Philosophy
 
@@ -93,6 +101,7 @@ Option B - Direct install via command:
 /plugin install agent-architecture@context-engineering-marketplace
 /plugin install agent-evaluation@context-engineering-marketplace
 /plugin install agent-development@context-engineering-marketplace
+/plugin install cognitive-architecture@context-engineering-marketplace
 ```
 
 ### Local Development
@@ -111,6 +120,7 @@ claude --plugin-dir /path/to/Agent-Skills-for-Context-Engineering
 | `agent-architecture` | multi-agent-patterns, memory-systems, tool-design |
 | `agent-evaluation` | evaluation, advanced-evaluation |
 | `agent-development` | project-development |
+| `cognitive-architecture` | bdi-mental-states |
 
 ### Skill Triggers
 
@@ -126,6 +136,7 @@ claude --plugin-dir /path/to/Agent-Skills-for-Context-Engineering
 | `evaluation` | "evaluate agent performance", "build test framework", "measure quality" |
 | `advanced-evaluation` | "implement LLM-as-judge", "compare model outputs", "mitigate bias" |
 | `project-development` | "start LLM project", "design batch pipeline", "evaluate task-model fit" |
+| `bdi-mental-states` | "model agent mental states", "implement BDI architecture", "transform RDF to beliefs", "build cognitive agent" |
 
 <img width="1014" height="894" alt="Screenshot 2025-12-26 at 12 34 47 PM" src="https://github.com/user-attachments/assets/f79aaf03-fd2d-4c71-a630-7027adeb9bfe" />
 
