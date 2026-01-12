@@ -29,7 +29,8 @@ These skills cover the patterns and structures for building effective agent syst
 | [multi-agent-patterns](skills/multi-agent-patterns/) | Master orchestrator, peer-to-peer, and hierarchical multi-agent architectures |
 | [memory-systems](skills/memory-systems/) | Design short-term, long-term, and graph-based memory architectures |
 | [tool-design](skills/tool-design/) | Build tools that agents can use effectively |
-| [filesystem-context](skills/filesystem-context/) | **NEW** Use filesystems for dynamic context discovery, tool output offloading, and plan persistence |
+| [filesystem-context](skills/filesystem-context/) | Use filesystems for dynamic context discovery, tool output offloading, and plan persistence |
+| [hosted-agents](skills/hosted-agents/) | **NEW** Build background coding agents with sandboxed VMs, pre-built images, multiplayer support, and multi-client interfaces |
 
 ### Operational Skills
 
@@ -110,7 +111,7 @@ Option B - Direct install via command:
 | Plugin | Skills Included |
 |--------|-----------------|
 | `context-engineering-fundamentals` | context-fundamentals, context-degradation, context-compression, context-optimization |
-| `agent-architecture` | multi-agent-patterns, memory-systems, tool-design, filesystem-context |
+| `agent-architecture` | multi-agent-patterns, memory-systems, tool-design, filesystem-context, hosted-agents |
 | `agent-evaluation` | evaluation, advanced-evaluation |
 | `agent-development` | project-development |
 | `cognitive-architecture` | bdi-mental-states |
@@ -127,6 +128,7 @@ Option B - Direct install via command:
 | `memory-systems` | "implement agent memory", "build knowledge graph", "track entities" |
 | `tool-design` | "design agent tools", "reduce tool complexity", "implement MCP tools" |
 | `filesystem-context` | "offload context to files", "dynamic context discovery", "agent scratch pad", "file-based context" |
+| `hosted-agents` | "build background agent", "create hosted coding agent", "sandboxed execution", "multiplayer agent", "Modal sandboxes" |
 | `evaluation` | "evaluate agent performance", "build test framework", "measure quality" |
 | `advanced-evaluation` | "implement LLM-as-judge", "compare model outputs", "mitigate bias" |
 | `project-development` | "start LLM project", "design batch pipeline", "evaluate task-model fit" |
